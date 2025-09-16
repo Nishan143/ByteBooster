@@ -312,7 +312,7 @@ a:hover {
 
 /* Footer */
 footer {
-    background-color: #03B4A5;
+    background-color: #000;
     color: #fff;
 }
 
@@ -1072,7 +1072,7 @@ body {
 .contact .php-email-form button[type=submit]:hover {
   background: color-mix(in srgb, var(--accent-color), transparent 20%);
 }
-<!-- ======== Blog Section CSS ======== -->
+<!-- ======== Blog CSS ======== -->
 
 .seo-blog h2 {
     font-weight: bold;
