@@ -1072,3 +1072,21 @@ body {
 .contact .php-email-form button[type=submit]:hover {
   background: color-mix(in srgb, var(--accent-color), transparent 20%);
 }
+<!-- ======== Blog Section CSS ======== -->
+
+.seo-blog h2 {
+    font-weight: bold;
+}
+.seo-blog .card {
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+.seo-blog .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 6px 20px rgba(0,0,0,0.1);
+}
+.seo-blog img {
+    height: 200px;
+    object-fit: cover;
+}
+  /* SEO box */
+    .seo-box textarea{min-height:140px; border-radius:14px;}
