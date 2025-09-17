@@ -375,7 +375,12 @@ body {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3); /* Soft shadow */
     height: 70px; /* Fixed height for the navbar */
 }
-
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    background-color:#1a1a2e;
+}
 .custom-nav-container {
     padding-left: 30px; /* Padding for the left side of the nav */
     padding-right: 30px; /* Padding for the right side of the nav */
