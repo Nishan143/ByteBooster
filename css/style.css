@@ -41,6 +41,8 @@ a:hover {
     background-color: transparent;
 }
 .logo-part{
+    width: 170px;
+    height: 90px;
     /* margin-left: 50px; */
 } 
 .logo-part-home{
