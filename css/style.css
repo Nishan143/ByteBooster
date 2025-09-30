@@ -9,12 +9,32 @@
 
 body {
     font-family: "Rubik", sans-serif;
-    background: url('../images/bg-cta-.svg') no-repeat center center fixed;
-    background-size: cover;
-    background-color: #f7f7f7;
+    /* background: url('../images/bg-cta-.svg') no-repeat center center fixed; */
+    background: url('../images/Add\ a\ heading\ \(2\).png') no-repeat center center fixed;  
+    background-size:cover;
+    background-color: #f7f7f7; 
     color: #222;
 }
-
+.logo{
+    margin-left: 50px;
+}
+.under{
+    text-align: center;
+    color: #ffff;
+}
+.under h1{
+    font-size: 80px;
+}
+.under2{
+    color: #fff;
+    margin: 50px;
+}
+.under2 h3{
+    padding: 20px;
+}
+.under2 h3 i {
+    padding-right: 20px;
+}
 h1, h2, h3, h4, h5, h6 {
     font-family: "Rubik", sans-serif;
     margin: 0;
